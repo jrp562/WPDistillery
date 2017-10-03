@@ -16,10 +16,10 @@
 wpfolder: public
 
 # WordPress version
-wpversion: latest
+wpversion: nightly
 
 # language/timezone
-wplocale: sv_SE
+wplocale: en_US
 timezone: "America/New_York"
 
 # admin user settings
