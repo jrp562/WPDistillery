@@ -16,7 +16,7 @@
 wpfolder: public
 
 # WordPress version
-wpversion: 4.2
+wpversion: 4.2.1
 
 # language/timezone
 wplocale: en_US
